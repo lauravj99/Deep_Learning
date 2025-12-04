@@ -13,7 +13,7 @@ Laura Vibeke Jacobsen (202105071)
 ## Repository structure
 
 ```
-├── notebook.ipynb       # Complete Google Colab notebook (full pipeline)
+├── Deep_learning.ipynb       # Complete Google Colab notebook (full pipeline)
 ├── README.md            # Project documentation (this file)
 ```
 
