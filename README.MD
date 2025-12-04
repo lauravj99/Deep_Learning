@@ -90,7 +90,7 @@ Performance was evaluated on the road segment with the largest number of test sa
 
 ## Missing files
 
-Due to GitHub’s 100 MB upload limit, the following files are not included:
+Due to GitHub’s 25 MB upload limit, the following files are not included:
 
 - `best_model1_state.pt`  
 - `best_model2_state.pt`  
