@@ -111,11 +111,3 @@ To run locally:
 pip install numpy pandas torch scikit-learn matplotlib openmeteo-requests kagglehub requests_cache retry_requests
 ```
 
----
-
-## Authors
-
-Antía Bardelás Avilleira (202402718)  
-Jacob Borg (202104887)  
-Laura Vibeke Jacobsen (202105071)  
-Aarhus University
